@@ -1,3 +1,3 @@
-print("Good morining rise and shine")
+print("Good morining Rise and Shine")
 print("Good night sweet dreams")
 
